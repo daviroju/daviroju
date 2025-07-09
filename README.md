@@ -1,7 +1,7 @@
 ## Olá, eu sou o Davi 👋
-## Aqui você não vai encontrar nenhum repositório público :(
-## Todos os meus projetos dependem do meu acesso aos serviços do CNJ (Conselho Nacional de Justiça) e por enquanto permanecem em repositórios privados.
-## Sim, eu sei, eu deveria ter algum projeto público e pessoal... Mas o tempo não colabora 😄
+
+Todos os meus projetos dependem do meu acesso aos serviços do CNJ (Conselho Nacional de Justiça) e por enquanto permanecem em repositórios privados.
+
 
 <!--
 **daviroju/daviroju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
