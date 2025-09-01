@@ -1,6 +1,6 @@
 ## Olá, eu sou o Davi 👋
 
-Todos os meus projetos dependem do meu acesso aos serviços do CNJ (Conselho Nacional de Justiça) e por enquanto permanecem em repositórios privados.
+
 
 
 <!--
