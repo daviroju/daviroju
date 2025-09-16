@@ -1,19 +1,23 @@
-## Olá, eu sou o Davi 👋
+<h1 align="center">Hello, I'm Davi 👋 🇧🇷 </h1>
+
+<p align="center">
+  <em>Software Developer</em>
+</p>
+
+<p align="center">
+  I am a big fan of new technologies and I love creating new tools that make everyday tasks easier.
+</p>
+<p align="center">
+  In the future, you will find here some projects on data analysis, artificial intelligence and automation.
+</p>
 
 
+### 🧠 About Me
+- 🔭 Software Developer at Court of Justice of the State of Goiás
+- 🧑🏻‍🎓 Technologist Diploma in Information Security
+- 🐍 Python 
 
 
-<!--
-**daviroju/daviroju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I am currently learning for personal projects:
+- 🤖 C programming language for embedded systems, such as ESP32 and Raspberry Pi
+- ☕ Java and React for fullstack web development
